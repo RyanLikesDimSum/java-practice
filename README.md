@@ -3,16 +3,8 @@
 
 package journal.pkg4b;
 
-/**
- *
- * @author Ryan
- */
 public class Journal4B 
 {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void getFizzBuzz(int number)
     {
         if (number % 3 == 0) 
